@@ -11,7 +11,7 @@ class Child extends b_methods {
 //            System.out.println("Trying to override");
 public static void main(String[] args){
     b_methods ab =new b_methods();
-    ab.show();
+    adgd
     }
 }
 
