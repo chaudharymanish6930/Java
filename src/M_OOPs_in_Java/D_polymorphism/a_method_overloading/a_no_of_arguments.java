@@ -12,7 +12,7 @@ class MathOperations {
 public class a_no_of_arguments {
     public static void main(String[] args) {
         MathOperations math = new MathOperations();
-        math.multiply(2, 3);      // Output: 6
+        math.multiply(2, 3);      // Output:
         math.multiply(2, 3, 4);   // Output: 24
     }
 
