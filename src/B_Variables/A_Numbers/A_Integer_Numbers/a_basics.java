@@ -1,4 +1,4 @@
-package B_Variables.D_Numbers.A_Integer_Numbers;
+package B_Variables.A_Numbers.A_Integer_Numbers;
 
 public class a_basics {
     public static void main(String[]args){

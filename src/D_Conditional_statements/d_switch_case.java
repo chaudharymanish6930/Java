@@ -1,5 +1,7 @@
 package D_Conditional_statements;
+
 import java.util.*;
+
 public class d_switch_case {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
