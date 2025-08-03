@@ -5,8 +5,8 @@ public class a_hello {
         int i = 1;
 
         do {
-            System.out.println("Hello World");
-            i=i+1;
+            System.out.println("Hello World" + i);
+            i = i + 1;
         } while (i <= 5);
     }
 }
