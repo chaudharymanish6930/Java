@@ -6,7 +6,6 @@ public class b_next_line {
         System.out.print("Hello and welcome");
 
         System.out.println("hello bhaii...");
-
         System.out.print("hello yaaro...");
     }
 }
