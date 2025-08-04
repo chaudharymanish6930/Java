@@ -1,6 +1,6 @@
 package M_OOPs_in_Java.G_this_keyword;
 
-public class a_Referring_Instance_Variables {
+public class  a_Referring_Instance_Variables {
     private String name;
 
     // Constructor
