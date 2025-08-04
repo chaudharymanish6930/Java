@@ -16,9 +16,9 @@ public class b_two_different_class {
         }
 }
 
-    class Xyz{
+class Xyz{
         static void show1(){
             System.out.println("without object");
         }
-      }
+}
 
