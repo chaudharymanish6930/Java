@@ -1,4 +1,4 @@
-package I_Strings;
+package I_Strings.A_Basics;
 import java.util.*;
 public class b_input_from_user {
     public static void main(String[]args){

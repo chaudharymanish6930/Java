@@ -1,10 +1,10 @@
-package I_Strings;
+package I_Strings.A_Basics;
 
-public class c_string_concatenation {
+public class d_lenght {
     public static void main(String[]args) {
         String firstname = "manish";
         String lastname = "choudhary";
         String fullname = firstname + " "+lastname;
-        System.out.println(fullname);
+        System.out.println(fullname.length());
     }
 }

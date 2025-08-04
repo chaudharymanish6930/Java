@@ -1,4 +1,4 @@
-package I_Strings;
+package I_Strings.A_Basics;
 
 public class f_compareTo {
     public static void main(String[]args) {
