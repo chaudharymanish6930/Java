@@ -1,4 +1,4 @@
-package M_OOPs_in_Java.C_inheritance;
+package M_OOPs_in_Java.C_inheritance.A_Basic_Inheritance;
 
 class Animal {
     void eat() {
@@ -13,7 +13,7 @@ class Dog extends Animal {
 }
 public class b_single_inheritance {
     public static void main(String[] args) {
-        Dog d = new M_OOPs_in_Java.C_inheritance.Dog();
+        Dog d = new Dog();
         d.eat();  // from Animal eats
         d.bark(); // from Dog barks
     }

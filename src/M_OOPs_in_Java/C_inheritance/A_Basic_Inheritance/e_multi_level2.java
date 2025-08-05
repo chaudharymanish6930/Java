@@ -1,15 +1,16 @@
-package M_OOPs_in_Java.C_inheritance;
+package M_OOPs_in_Java.C_inheritance.A_Basic_Inheritance;
+
 class aa{
     void showA(){
         System.out.println("a is method");
     }
 }
-class bb extends a{
+class bb extends a {
     void showB(){
         System.out.println("b is method");
     }
 }
-class cc extends b{
+class cc extends b {
     void showC(){
         System.out.println("c is method");
     }

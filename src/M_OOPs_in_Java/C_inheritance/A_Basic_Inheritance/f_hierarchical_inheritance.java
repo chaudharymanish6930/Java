@@ -1,4 +1,4 @@
-package M_OOPs_in_Java.C_inheritance;
+package M_OOPs_in_Java.C_inheritance.A_Basic_Inheritance;
 class aaa{
     void showA(){
         System.out.println("method in a");

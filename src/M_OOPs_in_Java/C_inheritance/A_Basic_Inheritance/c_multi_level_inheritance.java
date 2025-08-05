@@ -1,15 +1,17 @@
+package M_OOPs_in_Java.C_inheritance.A_Basic_Inheritance;
+
 //package M_OOPs_in_Java.C_inheritance;
 class Animal1 {
     void eat() {
         System.out.println("Animal eats");
     }
 }
-class Dog extends Animal1  {
+class Dogs extends Animal1  {
     void bark() {
         System.out.println("Dog barks");
     }
 }
-class Puppy extends Dog {
+class Puppy extends Dogs {
     void weep() {
         System.out.println("Puppy weeps");
     }
