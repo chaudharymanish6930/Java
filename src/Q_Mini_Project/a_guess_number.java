@@ -24,6 +24,5 @@ public class a_guess_number {
                 System.out.println("NUmber is too small");
             }
         } while(usernumber >= 0);
-
     }
 }
