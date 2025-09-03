@@ -1,8 +1,8 @@
-package Q_Programs;
+package H_Arrays.F_ArrayOperations;
 
 import java.util.Scanner;
 
-public class f_ArrayOperations {
+public class a_ArrayOperations {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         // size of array

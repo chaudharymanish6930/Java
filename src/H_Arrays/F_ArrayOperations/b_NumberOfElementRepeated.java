@@ -1,8 +1,8 @@
-package Q_Programs;
+package H_Arrays.F_ArrayOperations;
 
 import java.util.Scanner;
 
-public class g_NumberOfElementRepeated {
+public class b_NumberOfElementRepeated {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         // size of array
