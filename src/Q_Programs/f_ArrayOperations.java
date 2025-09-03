@@ -6,17 +6,18 @@ public class f_ArrayOperations {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         // size of array
+        System.out.print("enter the size of array: ");
         int n = scanner.nextInt();
         // create an array
         int[] arr = new int[n];
 
-        System.out.print("Enter the values: ");
+        System.out.println("Enter the values: ");
         for(int i =0;i<n;i++){
             arr[i]= scanner.nextInt();
         }
         // print the array elements
         for(int i =0;i<n; i++){
-            System.out.print(arr[i]);
+            System.out.print("values of array: "+arr[i]+" ");
         }
 
         // sum of all elements of array
