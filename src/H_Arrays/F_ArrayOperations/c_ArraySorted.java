@@ -28,7 +28,6 @@ public class c_ArraySorted {
                 break;
             }
         }
-
         if(flag == true){
             System.out.println("it is sorted");
         }
