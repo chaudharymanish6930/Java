@@ -3,7 +3,7 @@ package Q_Programs;
 import java.util.Scanner;
 
 public class e_PrimeCheck {
-    public static void CheckAge(int age){
+    public static void CheckNumber(int age){
         if(age<=1){
             System.out.println("not valid or 1 is not a prime number");
             return;
@@ -26,6 +26,6 @@ public class e_PrimeCheck {
 
         System.out.print("enter a number: ");
         int age = scanner.nextInt();
-        CheckAge(age);
+        CheckNumber(age);
     }
 }
