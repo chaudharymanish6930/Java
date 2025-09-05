@@ -21,6 +21,7 @@ public class e_PrimeCheck {
             System.out.println("it is not a prime number");
         }
     }
+
     public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
 
