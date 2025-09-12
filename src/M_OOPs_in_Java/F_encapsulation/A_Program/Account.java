@@ -20,7 +20,7 @@ public class Account {
     public static void main(String[] args) {
         Account holder = new Account();
         holder.BalanceCheck();
-        holder.deposite(2000);
+        holder.deposite(20000);
         holder.BalanceCheck();
         holder.withdraw(1000);
         holder.BalanceCheck();
