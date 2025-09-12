@@ -2,7 +2,7 @@ package M_OOPs_in_Java.F_encapsulation.A_Program;
 
 public class Employ {
     private double sallery;
-    protected void setter(double x){
+    public void setter(double x){
         sallery = x;
     }
     public double getter(){
