@@ -24,8 +24,6 @@ class Student {
             System.out.println("Age must be positive.");
         }
     }
-
-    //
     // Public getter for age
     public int getAge() {
         return age;
