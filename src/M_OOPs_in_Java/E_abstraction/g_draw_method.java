@@ -30,8 +30,8 @@ class Circles extends Shapes {
 
 public class g_draw_method {
     public static void main(String[] args) {
-        // Shapes s = new Shapes("Red");  // ❌ Error: Cannot instantiate abstract class
-        Circles c = new Circles("Blue", 10);  // ✅ Shape constructor will run first
+        // Shapes s = new Shapes("Red");  //Error: Cannot instantiate abstract class
+        Circles c = new Circles("Blue", 10);  // Shape constructor will run first
         c.draw();
     }
 }
