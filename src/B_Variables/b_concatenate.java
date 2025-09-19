@@ -1,6 +1,5 @@
 package B_Variables;
 
-import java.util.*;
 public class b_concatenate {
     public static void main(String[] args){
         String name= "manish";
@@ -9,7 +8,5 @@ public class b_concatenate {
         System.out.println("Name: " + name);
         System.out.println("Age: " + age);
         System.out.println("Price: " + price);
-
-
     }
 }
