@@ -1,4 +1,5 @@
 package M_OOPs_in_Java.D_polymorphism.a_method_overloading;
+
 class Demo {
     void show(int a, int b) {
         System.out.println("Two integers: " + (a + b));
@@ -8,6 +9,7 @@ class Demo {
         System.out.println("Two doubles: " + (a + b));
     }
 }
+
 public class c_type_of_arguments {
     public static void main(String[] args) {
         Demo d = new Demo();

@@ -9,6 +9,7 @@ class MathOperations {
         System.out.println("Result (3 numbers): " + (a * b * c));
     }
 }
+
 public class a_no_of_arguments {
     public static void main(String[] args) {
         MathOperations math = new MathOperations();

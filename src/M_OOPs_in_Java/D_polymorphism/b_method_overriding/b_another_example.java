@@ -5,12 +5,12 @@ class A{
         return a+b;
     }
 }
-
 class B extends A{
     public int add(int a, int b){
         return a+b+2;
     }
 }
+
 public class b_another_example {
     public static void main(String[] args){
         B r1 = new B();
