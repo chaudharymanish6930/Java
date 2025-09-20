@@ -16,5 +16,9 @@ public class f_ternary_operator {
 //        System.out.println(result);
         result = n%2==0 ? 10 : 20;
         System.out.println(result);
+
+        // Using ternary operator to print in one line
+        System.out.println("The number " + n + " is " + (n % 2 == 0 ? "Even" : "Odd"));
+
     }
 }
