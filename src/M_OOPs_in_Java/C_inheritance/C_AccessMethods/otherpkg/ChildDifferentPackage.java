@@ -20,7 +20,7 @@ public class ChildDifferentPackage extends Parent {
 
         // Important note: With a Parent instance in a different package you CANNOT call protected:
         Parent p = new Parent();
-        // p.protectedMethod(); // ERROR if uncommented: can't access protected on a Parent instance from another package
+//         p.protectedMethod(); // ERROR if uncommented: can't access protected on a Parent instance from another package
     }
 
     public static void main(String[] args) {
