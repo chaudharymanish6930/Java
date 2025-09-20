@@ -14,6 +14,7 @@ class ccc extends aaa{
         System.out.println("method in c");
     }
 }
+
 public class f_hierarchical_inheritance {
     public static void main(String[] args){
         aaa obj1=new aaa();

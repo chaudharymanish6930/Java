@@ -12,6 +12,6 @@ public class a_by_reference_variable {
     car1.model="2015";
     car1.age=12;
 
-        System.out.println(car1.company+" "+car1.model+" "+car1.age);
+    System.out.println(car1.company+" "+car1.model+" "+car1.age);
     }
 }

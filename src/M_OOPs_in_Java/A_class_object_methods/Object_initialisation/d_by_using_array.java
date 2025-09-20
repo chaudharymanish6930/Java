@@ -1,11 +1,13 @@
 package M_OOPs_in_Java.A_class_object_methods.Object_initialisation;
 
-
 class Student {
     int rollNo;
     String name;
     double marks;
-
+    // consturctor call
+    Student(){
+        System.out.println(rollNo+ name + " : "+marks );
+    }
 }
 
 public class d_by_using_array {

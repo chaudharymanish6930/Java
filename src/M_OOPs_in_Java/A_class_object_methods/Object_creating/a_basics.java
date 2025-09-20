@@ -6,6 +6,8 @@ class pen{
 
     public void write(){
         System.out.println("hello");
+        System.out.println(color);
+        System.out.println(type);
     }
 }
 
@@ -15,6 +17,10 @@ public class a_basics {
         //create objects
         pen p1=new pen();
         p1.write();
+        p1.color = "Black";
+        p1.type = "notebook";
+        p1.write();
+
     }
 }
 

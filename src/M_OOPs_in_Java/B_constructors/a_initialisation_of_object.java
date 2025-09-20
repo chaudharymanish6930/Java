@@ -20,5 +20,4 @@ public class a_initialisation_of_object {
         st1.display();
         st2.display();
     }
-
 }

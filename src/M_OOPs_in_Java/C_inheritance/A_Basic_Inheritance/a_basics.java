@@ -5,6 +5,7 @@ public class a_basics {
         System.out.println("i am eating");
     }
 }
+
 class basics extends a_basics{
     public static void main(String[] args){
         System.out.println("hello");

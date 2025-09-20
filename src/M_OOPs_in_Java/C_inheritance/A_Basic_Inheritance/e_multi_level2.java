@@ -15,6 +15,7 @@ class cc extends b {
         System.out.println("c is method");
     }
 }
+
 public class e_multi_level2 {
     public static void  main(String[] args){
       aa obj1=new aa();
