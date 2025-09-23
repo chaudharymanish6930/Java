@@ -11,12 +11,11 @@ public class d_example_of_finally {
         ResultSet rs=null;
         try{
             int a=10, b=0;
-            int c=10/b;
+            int c=a/b;
 
         }
         catch(Exception ex){
             System.out.println(ex);
-
         }
         finally{
             try{
