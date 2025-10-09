@@ -16,6 +16,5 @@ public class h_ToCheckPallindromeString {
         else{
             System.out.println("No");
         }
-
     }
 }
