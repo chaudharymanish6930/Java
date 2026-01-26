@@ -1,6 +1,6 @@
 package G_Functions;
 import java.util.Scanner;
-public class b_sum_of_two_number {
+public class f_sum_of_two_number {
     public static int sum(int a,int b){
         int x=a+b;
         return x;

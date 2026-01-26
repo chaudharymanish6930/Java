@@ -2,7 +2,7 @@ package G_Functions;
 
 import java.util.Scanner;
 
-public class d_factorial {
+public class e_factorial {
     public static int factorial(int n){
         int factorial=1;
 

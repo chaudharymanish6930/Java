@@ -7,13 +7,13 @@ public class c_size_of_array {
           int x=a.nextInt();
           int[] array=new int[x];
           for(int i=0;i<x;i++){
-              System.out.print("enter the element "+ i+1+":");
+              System.out.print("enter the element "+ i+":");
 //              Scanner b=new Scanner(System.in);   // not required
                array[i]=a.nextInt();
           }
           System.out.println("the array elements:");
           for(int i=0;i<x;i++){
-              System.out.println("Array element "+i+" "+array[i]);
+              System.out.println("Array element "+i+" :"+array[i]);
           }
       }
 }

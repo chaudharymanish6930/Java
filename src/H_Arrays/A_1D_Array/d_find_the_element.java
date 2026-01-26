@@ -27,8 +27,6 @@ public class d_find_the_element {
             if (n==array[i]){
                 System.out.println("element found at: "+i+1+"is"+array[i]);
             }
-
         }
-
     }
 }

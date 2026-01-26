@@ -14,6 +14,7 @@ public class a_Math_Function {
         System.out.println(Math.ceil(4.7));
         System.out.println(Math.min(3,7));
         System.out.println(Math.max(4.5,8.9));
-        System.out.println(Math.pow);
+        System.out.println(Math.pow(2,4));
+        System.out.println(Math.pow(0,0));
     }
 }

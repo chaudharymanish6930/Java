@@ -10,7 +10,7 @@ public class a_basics {
         System.out.println(marks[1]);
 
         int[] name={12,24,266,23,65,289,22};
-        for(int i=0;i<= name.length;i++){
+        for(int i=0;i< name.length;i++){
             System.out.println(name[i]);
         }
 
