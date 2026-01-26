@@ -18,4 +18,3 @@ public class b_hollow_rectangle {
         }
     }
 }
-// simple four lines printed in this ways
