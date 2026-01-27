@@ -15,8 +15,5 @@ public class e_input_from_user {
         for(int i=0;i<n;i++){
             System.out.print(num[i]+" ");
         }
-
-
-
     }
 }
