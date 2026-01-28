@@ -9,7 +9,9 @@ public class b_input_from_user {
         int x=a.nextInt();
         System.out.print("enter size of colunms: ");
         int y=a.nextInt();
+
         int[][] array=new int[x][y];
+
         System.out.println("enter the values: ");
         for(int i=0;i<x;i++){
             for(int j=0;j<y;j++){
@@ -17,6 +19,7 @@ public class b_input_from_user {
                 array[i][j]=a.nextInt();
             }
         }
+
         System.out.println("the array elements:");
         for(int i=0;i<x;i++){
             for(int j=0;j<y;j++){

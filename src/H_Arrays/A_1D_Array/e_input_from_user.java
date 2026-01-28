@@ -6,11 +6,9 @@ public class e_input_from_user {
         System.out.print("enter the lenght of array: ");
         int n=a.nextInt();
         int[] num=new int[n];
-
         for(int i=0;i<n;i++){
             num[i]=a.nextInt();
         }
-
         System.out.println("print array element: ");
         for(int i=0;i<n;i++){
             System.out.print(num[i]+" ");
