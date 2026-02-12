@@ -5,7 +5,7 @@ public class e_charAt {
         String lastname = "choudhary";
         System.out.println(lastname.length());
 
-        for(int i=0;i<=lastname.length();i++){
+        for(int i=0;i<lastname.length();i++){
             System.out.println(lastname.charAt(i));
         }
     }

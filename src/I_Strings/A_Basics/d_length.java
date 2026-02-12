@@ -1,6 +1,6 @@
 package I_Strings.A_Basics;
 
-public class d_lenght {
+public class d_length {
     public static void main(String[]args) {
         String firstname = "manish";
         String lastname = "choudhary";

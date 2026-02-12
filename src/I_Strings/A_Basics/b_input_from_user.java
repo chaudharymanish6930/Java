@@ -5,7 +5,6 @@ public class b_input_from_user {
         Scanner sc=new Scanner(System.in);
         System.out.print("input a string: ");
         String a=sc.nextLine();
-        System.out.println("after entering...");
-        System.out.println(a);
+        System.out.println("after entering..."+a);
     }
 }
