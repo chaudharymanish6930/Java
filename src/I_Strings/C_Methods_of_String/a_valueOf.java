@@ -1,9 +1,9 @@
 package I_Strings.C_Methods_of_String;
 
-public class a_value_of_example {
+public class a_valueOf {
     public static void main(String[] args) {
-        int num = 123;
+        long num = 123654739;
         String str = String.valueOf(num);
-        System.out.println(str); // Output: "123"
+        System.out.println(str);
     }
 }

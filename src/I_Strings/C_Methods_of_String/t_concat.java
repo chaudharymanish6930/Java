@@ -1,6 +1,6 @@
 package I_Strings.C_Methods_of_String;
 
-public class t_concat_example {
+public class t_concat {
     public static void main(String[] args) {
         String str1 = "Hello";
         String str2 = " World";
