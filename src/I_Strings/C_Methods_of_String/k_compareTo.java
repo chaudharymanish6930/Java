@@ -7,4 +7,4 @@ public class k_compareTo {
         String b = "aab";
         System.out.println(a.compareTo(b)); // Output: -1
     }
-}1
+}
