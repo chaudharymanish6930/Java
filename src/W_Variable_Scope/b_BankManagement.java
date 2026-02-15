@@ -9,5 +9,7 @@ public class b_BankManagement {
             System.out.println("acoount Number: "+accountNumber);
         }
 //        System.out.println(pin); error
+        int m=2/3;
+        System.out.println(m);
     }
 }
