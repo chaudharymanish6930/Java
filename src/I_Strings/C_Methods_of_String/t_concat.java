@@ -9,5 +9,9 @@ public class t_concat {
 
         String str3 = str1.concat(" bob ").concat(str1);
         System.out.println(str3);
+
+        // .concat("  ").concat(part2)
+        String name=str1.concat("  ").concat(str2).concat(" ").concat(str3);
+        System.out.println(name);
     }
 }
