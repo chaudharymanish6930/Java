@@ -9,8 +9,8 @@ public class e_GlobalReversing {
     }
     public static void amit(int x){
         if(x==0) return;
-        System.out.print (x);
+        System.out.print (x+" ");
         amit(x-1);
-        System.out.print(x+" ");
+        if(x!=1) System.out.print(x+" ");
     }
 }
