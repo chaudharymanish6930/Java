@@ -2,9 +2,8 @@ package L_Recursion;
 import java.util.Scanner;
 public class a_counting_byRecursion {
     public static void printvalue(int n){
-        if(n==0){
-            return;
-        }
+        if(n==0) return;
+
         System.out.print(n+" ");
         printvalue(n-1);
         System.out.print(n+" ");
