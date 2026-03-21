@@ -12,5 +12,6 @@ public class Test {
 
         change(p1);
         System.out.println(p1.name); // ?
+
     }
 }
