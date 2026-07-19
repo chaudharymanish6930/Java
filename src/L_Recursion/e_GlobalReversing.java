@@ -4,7 +4,7 @@ public class e_GlobalReversing {
     static int x;
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        x=sc.nextInt();
+        x = sc.nextInt();
         amit(x);
     }
     public static void amit(int x){
