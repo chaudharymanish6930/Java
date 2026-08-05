@@ -7,7 +7,6 @@ public class g_ComparisonString {
         String sub = "567";
         String ans = "345";
 
-        // Check which number is larger
         if (sub.length() > ans.length() ||
                 (sub.length() == ans.length() && sub.compareTo(ans) > 0)) {
 
